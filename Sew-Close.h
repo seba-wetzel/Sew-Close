@@ -35,8 +35,7 @@
 //Otros
 
 
-uint8_t inputPins  [] = {STOP_INPUT_PIN, START_INPUT_PIN,SENSOR_INPUT_PIN, SENSOR2_INPUT_PIN};
-uint8_t outputPins [] = {MOTOR1_OUTPUT_PIN, MOTOR2_OUTPUT_PIN,MOTOR3_OUTPUT_PIN, CUTTER_OUTPUT_PIN, LED_PIN  }; 
+
 
 typedef enum {
   config,
